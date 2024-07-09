@@ -199,6 +199,7 @@ span {
 
 .about-img img {
   width: 35vw;
+  border-radius: 50%;
 }
 
 .about-heading {
