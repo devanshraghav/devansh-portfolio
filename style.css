@@ -378,7 +378,7 @@ span {
 }
 
 @media (max-width: 991px) {
-  .header {
+  header {
     padding: 2rem 3%;
   }
 
@@ -419,7 +419,6 @@ span {
 
   }
 
-  /* tesdt */
   .menu .nav-list{
     display: flex;
     flex-direction: column;
