@@ -132,6 +132,7 @@ span {
 
 .user-img img {
   width: 25vw;
+  border-radius: 50%;
   animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -439,9 +440,9 @@ span {
     font-size: 5rem;
   }
 
-  .home-img img {
-    width: 90vw;
-    margin-top: 4rem;
+  .user-img img {
+    width: 50vw;
+    margin-top: 2rem;
   }
 
   .about {
@@ -467,7 +468,7 @@ span {
     grid-template-columns: 1fr;
   }
 
-  .home-img img {
+  .user-img img {
     width: 80vw;
     margin-top: 8rem;
   }
