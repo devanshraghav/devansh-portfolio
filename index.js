@@ -7,7 +7,7 @@ const inputField = document.querySelectorAll('.input-field');
 const typed = new Typed('#role', {
   strings: ["Frontend Developer", "Web Developer", "Jr. Software Engineer"],
   typeSpeed: 100,
-  backspeed: 100,
+  backSpeed: 100,
   backDelay: 1000,
   loop: true,
 });
